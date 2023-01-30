@@ -603,23 +603,27 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/ex071.png)
+![71](https://user-images.githubusercontent.com/119477857/215442061-f858efa6-86a9-4056-bf62-1c7fe36a8b12.jpg)
+
+
 
 ### products:
 
-![output](./images/ex072.png)
+![72](https://user-images.githubusercontent.com/119477857/215442075-4a35832f-ad23-4d28-a3f4-7582968dd181.jpg)
+
 
 ### people:
+![73](https://user-images.githubusercontent.com/119477857/215442099-12c99d01-9c15-45ba-8b16-cf4aee304811.jpg)
 
-![output](./images/ex073.png)
 
 ### contact:
 
-![output](./images/ex074.png)
+![74](https://user-images.githubusercontent.com/119477857/215442124-aa6e2d3d-3059-4198-ac35-e54277d807ae.jpg)
+
 
 ### validator:
+![75](https://user-images.githubusercontent.com/119477857/215442271-26343beb-b52b-4058-9a77-180cab065ee2.jpg)
 
-![output](./images/valid075.png)
 
 ## Result:
 
